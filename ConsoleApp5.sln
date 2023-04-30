@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quan li cua hang sach", "ConsoleApp5\Quan li cua hang sach.csproj", "{7ED11E4D-257D-4E47-B052-EA963A2A6AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ED11E4D-257D-4E47-B052-EA963A2A6AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED11E4D-257D-4E47-B052-EA963A2A6AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED11E4D-257D-4E47-B052-EA963A2A6AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED11E4D-257D-4E47-B052-EA963A2A6AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5246BDD6-1983-433E-AC37-D27629CC8437}
+	EndGlobalSection
+EndGlobal
